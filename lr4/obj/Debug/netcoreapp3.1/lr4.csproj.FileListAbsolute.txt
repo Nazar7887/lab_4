@@ -1,0 +1,14 @@
+D:\programing\orders\c#_Nazar\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.exe
+D:\programing\orders\c#_Nazar\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.deps.json
+D:\programing\orders\c#_Nazar\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.json
+D:\programing\orders\c#_Nazar\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.dev.json
+D:\programing\orders\c#_Nazar\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.dll
+D:\programing\orders\c#_Nazar\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.pdb
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.csproj.AssemblyReference.cache
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfoInputs.cache
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfo.cs
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.csproj.CoreCompileInputs.cache
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.dll
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.pdb
+D:\programing\orders\c#_Nazar\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.genruntimeconfig.cache
